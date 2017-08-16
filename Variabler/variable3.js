@@ -1,3 +1,4 @@
+//variabler
 var forste="10";
 var anden="20";
 var midlertidig= forste;
